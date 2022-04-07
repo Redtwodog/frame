@@ -29,14 +29,14 @@ date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Hi, i'm tomato . 
-  body: Share some instersting.
+  title: Hi, i'm Tomato . 
+  body: A Coder , ACGer , Cat person.
   image: /profile_cover.png
 
   links:
     Home: /
     Blogs: /categories/gallery/
-
+    Bilibili: 'https://space.bilibili.com/413941'
 # footer
 footer:
   copyright_info:
